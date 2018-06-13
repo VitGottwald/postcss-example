@@ -3,3 +3,7 @@
   color: grey;
   display: flex;
 }
+
+::placeholder {
+  color: gray;
+}
