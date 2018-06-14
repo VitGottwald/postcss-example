@@ -9,6 +9,7 @@
     "webpack-cli": "^3.0.6"
   },
   "scripts": {
-    "start": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js",
+    "test": "echo No Tests Yet"
   }
 }
